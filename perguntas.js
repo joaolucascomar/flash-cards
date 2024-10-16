@@ -107,13 +107,13 @@ criaCartao(
 )
 
 criaCartao(
-    'Matemática',
-    'Como se calcula a soma dos termos de uma P.A?',
-    'Utiliza-se a formula: ((a1+an)*r)/2'
+    'Física',
+    'Qual o fórmula utilizada para calcular o MRU',
+    'Utiliza-se a formula:  S = S₀ + V.t'
 )
 
 criaCartao(
-    'Matemática',
-    'Como se calcula a soma dos termos de uma P.A?',
-    'Utiliza-se a formula: ((a1+an)*r)/2'
+    'Física',
+    'Qual o fórmula utilizada para calcular a força peso',
+    'Utiliza-se a formula: P = m.g'
 )
