@@ -36,6 +36,11 @@ body {
     padding: 1rem;
 }
 
+.conteudo-cartao h3 {
+    color: var(--destaque);
+    border: 1px solid var(--destaque);
+}
+
 footer {
     background-color: var(--preto);
     color: var(--branco);
