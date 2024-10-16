@@ -39,9 +39,12 @@ body {
 .conteudo-cartao h3 {
     color: var(--destaque);
     border: 1px solid var(--destaque);
+    border-radius: 0.6rem;
     position: absolute;
     margin: 0.5rem;
     padding: 0.5rem;
+    text-align: left;
+    font-size: 1vw;
 }
 
 footer {
