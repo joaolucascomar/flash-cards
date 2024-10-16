@@ -12,6 +12,11 @@ body {
     margin: 0;
 }
 
+#container {
+    padding: 4rem;
+    
+}
+
 footer {
     background-color: var(--preto);
     color: var(--branco);
