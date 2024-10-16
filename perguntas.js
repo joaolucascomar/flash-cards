@@ -12,7 +12,7 @@ criaCartao(
 
 criaCartao(
     'Quimica',
-    'O que são hidrocarbonetos',
+    'O que são hidrocarbonetos?',
     'Compostos orgânicos formadoa apenas por átomos de carbono e hidrogênio'
 )
 
@@ -24,7 +24,7 @@ criaCartao(
 
 criaCartao(
     'Quimica',
-    'Qual o numero de carbonos de um composto alcino com 24 hidrogênios',
+    'Qual o numero de carbonos de um composto alcino com 24 hidrogênios?',
     '13 carbonos'
 )
 
@@ -60,19 +60,19 @@ criaCartao(
 
 criaCartao(
     'Português',
-    'Quais são os momentos da literatura brasileira',
+    'Quais são os momentos da literatura brasileira?',
     'Quinhentismo, Barroco, Arcadismo, Romantismo, Realismo, Naturalismo, Parnasianismo, Simbolismo, Modernismo e Pós-Modernismo'
 )
 
 criaCartao(
     'Português',
-    'Qual a diferença entre gráfico e infogáfico',
+    'Qual a diferença entre gráfico e infogáfico?',
     'O grafico é uma representação de dados quantitativos e o infográfico combina texto, imagens e gráficos para apresentar as informações'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a formula da circunferência de um circulo',
+    'Qual a formula da circunferência de um circulo?',
     'c = 2πr (onde r é o raio)'
 )
 
@@ -84,36 +84,36 @@ criaCartao(
 
 criaCartao(
     'Matemática',
-    'Quais a razão trigonométrica básicas para calcular a tangente',
-    'tan = cateto oposto/cateto adjacente'
+    'Qual a razão trigonométrica básica para calcular a tangente?',
+    'tangente = cateto oposto/cateto adjacente'
 )
 
 criaCartao(
     'Matemática',
-    'Qual a formula geral da função afim',
+    'Qual a formula geral da função afim?',
     'f(x) = ax + b'
 )
 
 criaCartao(
     'Programação',
-    'O que é um dado tipo booleano',
+    'O que é um dado tipo booleano?',
     'Possui dois valores, verdadeiro ou falso'
 )
 
 criaCartao(
     'Matemática',
-    'Qual o teorema de pitágoras',
+    'Qual o teorema de pitágoras?',
     'a² + b² = c²'
 )
 
 criaCartao(
     'Física',
-    'Qual o fórmula utilizada para calcular o MRU',
+    'Qual o fórmula utilizada para calcular o MRU?',
     'Utiliza-se a formula:  S = S₀ + V.t'
 )
 
 criaCartao(
     'Física',
-    'Qual o fórmula utilizada para calcular a força peso',
+    'Qual o fórmula utilizada para calcular a força peso?',
     'Utiliza-se a formula: P = m.g'
 )
