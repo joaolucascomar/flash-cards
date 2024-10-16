@@ -34,6 +34,8 @@ body {
     height: 100%;
     text-align: center;
     padding: 1rem;
+    transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .conteudo-cartao h3 {
@@ -51,8 +53,6 @@ body {
     margin-top: 4rem;
     padding: 2rem;
     font-size: 1.4vw;
-    transform-style: preserve-3d;
-    transition: transform 300ms ease-in-out;
 }
 
 .pergunta-cartao {
