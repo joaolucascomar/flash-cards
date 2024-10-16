@@ -62,6 +62,10 @@ body {
     color: var(--destaque);
 }
 
+.cartao:hover .conteudo-cartao {
+    transform: rotateY(180deg);
+}
+
 footer {
     background-color: var(--preto);
     color: var(--branco);
