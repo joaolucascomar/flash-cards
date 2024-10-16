@@ -108,7 +108,7 @@ criaCartao(
 
 criaCartao(
     'Física',
-    'Qual o fórmula utilizada para calcular o MRU?',
+    'Qual o fórmula utilizada para calcular o movimento retilineo uniforme(MRU)?',
     'Utiliza-se a formula:  S = S₀ + V.t'
 )
 
