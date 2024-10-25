@@ -55,6 +55,7 @@ footer {
     padding: 40px;
     border: 1px solid var(--destaque);
     box-shadow: 5px 5px 20px 5px var(--preto);
+    border-radius: 10px;
 }
 
 .cartao:hover {
@@ -65,5 +66,5 @@ footer {
     background-color: var(--cartao-verso);
     padding: 40px;
     display: none;
-    
+
 }
