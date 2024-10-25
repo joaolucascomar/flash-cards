@@ -12,6 +12,12 @@ body {
     margin: 0;
 }
 
+header {
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+}
+
 #container {
     padding: 4rem;
     margin-bottom: 5rem;
