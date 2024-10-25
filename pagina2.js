@@ -14,7 +14,9 @@ function criaCartao(categoria, pergunta, resposta) {
         </div>
     `;
 
-    
-
     container.appendChild(cartao)
+}
+
+function mostrarResposta() {
+    const resposta = document.querySelector('.resposta-cartao')
 }
