@@ -117,3 +117,9 @@ criaCartao(
     'Qual o fórmula utilizada para calcular a força peso?',
     'Utiliza-se a formula: P = m.g'
 )
+
+criaCartao(
+    'Português',
+    'Variação linguística diatópica é o mesmo que que...',
+    'Variação regional/geográfica'
+)
