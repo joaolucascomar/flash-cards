@@ -67,6 +67,8 @@ body {
 
 .pergunta-cartao, .resposta-cartao {
     backface-visibility: hidden;
+    height: 100%;
+    width: 100%
 }
 
 .cartao:hover .conteudo-cartao {
