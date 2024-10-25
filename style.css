@@ -52,6 +52,10 @@ header a {
     margin: 1rem;
 }
 
+.cartao:hover {
+    transform: scale(1.02);
+}
+
 .conteudo-cartao {
     background-color: var(--cartao-frente);
     height: 100%;
