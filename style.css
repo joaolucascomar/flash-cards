@@ -64,6 +64,8 @@ body {
     font-weight: 700;
     color: var(--destaque);
     transform: rotateY(180deg);
+    background-color: var(--cartao-verso);
+    border: 2px solid var(--destaque);
 }
 
 .pergunta-cartao, .resposta-cartao {
