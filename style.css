@@ -16,6 +16,12 @@ header {
     background-color: var(--preto);
     display: flex;
     justify-content: space-around;
+    padding: 3rem;
+}
+
+header a {
+    color: var(--branco);
+    text-decoration: none;
 }
 
 #container {
