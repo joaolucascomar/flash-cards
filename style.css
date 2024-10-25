@@ -36,6 +36,7 @@ body {
     padding: 1rem;
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
+    backface-visibility: hidden;
 }
 
 .conteudo-cartao h3 {
