@@ -50,6 +50,8 @@ header a {
     flex-basis: calc(33% - 6rem);
     height: 20rem;
     margin: 1rem;
+    border: 1px solid var(--destaque);
+    box-shadow: 5px 5px 20px 5px var(--preto);
 }
 
 .conteudo-cartao {
