@@ -65,6 +65,10 @@ body {
     color: var(--destaque);
 }
 
+.pergunta-cartao, .resposta-cartao {
+    backface-visibility: hidden;
+}
+
 .cartao:hover .conteudo-cartao {
     transform: rotateY(180deg);
 }
