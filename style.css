@@ -60,6 +60,10 @@ body {
     font-weight: 500;
 }
 
+.pergunta-cartao p {
+    margin-right: 15px;
+}
+
 .resposta-cartao {
     font-weight: 700;
     color: var(--destaque);
